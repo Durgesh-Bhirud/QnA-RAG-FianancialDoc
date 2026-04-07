@@ -144,6 +144,14 @@ Azure OpenAI subscription has expired.
 
 ---
 
+# ⚙️ Setup
+
+1. Install dependencies
+2. Add API keys
+3. Run notebook
+
+---
+
 ## 👤 Author
 
 Durgesh Bhirud
