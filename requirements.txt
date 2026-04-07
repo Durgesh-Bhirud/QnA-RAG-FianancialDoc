@@ -1,0 +1,8 @@
+openai
+langchain
+chromadb
+pypdf
+camelot-py
+tiktoken
+gradio
+matplotlib
